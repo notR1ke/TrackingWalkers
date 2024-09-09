@@ -1,0 +1,13 @@
+names:
+- droplet
+nc: 1
+path: C:\Users\henri\Documents\Deep-Learning-Tracking-Walking-Droplets-main\tutorial\datasets
+roboflow:
+  license: CC BY 4.0
+  project: walkingdroplets
+  url: https://universe.roboflow.com/walkingdroplets/walkingdroplets/dataset/1
+  version: 1
+  workspace: walkingdroplets
+test: test/images
+train: train/images
+val: valid/images
